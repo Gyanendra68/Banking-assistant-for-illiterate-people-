@@ -1,0 +1,11 @@
+{
+  "name": "sbi-voice-banking-assistant-fixed",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Standalone multilingual voice banking assistant prototype",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/run-tests.js",
+    "test:long": "node tests/long-run.js"
+  }
+}
